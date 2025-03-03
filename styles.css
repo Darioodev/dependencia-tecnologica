@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    font-size: 11px;
+    background-color: #5988FF;
+    color: #FFFFFF;
+}
+h1 {
+    color: pink;
+    font-size: 24px;
+    font-family: Georgia, serif;
+}
+
+.Twitter {
+    color: pink;
+}
+
+
+.imagen{
+    text-align: center;
+    margin: auto;
+    align-content: center;
+}
